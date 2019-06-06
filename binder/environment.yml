@@ -12,3 +12,4 @@ dependencies:
   - rise
   - ipywidgets
   - jupyter_contrib_nbextensions
+  - appmode
