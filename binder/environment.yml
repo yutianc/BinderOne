@@ -3,16 +3,23 @@ channels:
   - damianavila82
   - conda-forge
 dependencies:
+ # Jupyter
+  - jupyterlab
+  - nodejs
+  - notebook
+  - tornado
+  - nbconvert
+  - widgetsnbextension
+  - jupyter_contrib_nbextensions
+#Python
   - python=3.7
+  - ipywidgets
   - numpy
   - matplotlib
   - pandas
   - bokeh
   - plotly
   - rise
-  - ipywidgets
-  - jupyter_contrib_nbextensions
   - appmode
   - jieba
   - wordcloud
-  - pkuseg
