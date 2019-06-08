@@ -15,6 +15,7 @@ dependencies:
   - python=3.7
   - ipywidgets
   - numpy
+  - scipy
   - matplotlib
   - pandas
   - bokeh
