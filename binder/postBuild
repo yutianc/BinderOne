@@ -11,3 +11,4 @@
 #jupyter lab clean
 
 pip install pkuseg
+pip install Pillow
