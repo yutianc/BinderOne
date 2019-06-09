@@ -11,4 +11,5 @@
 #jupyter lab clean
 
 pip install pkuseg
-pip install Pillow
+#pip install Pillow
+pip3 install Pillow==4.3.0
